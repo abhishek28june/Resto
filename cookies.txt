@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.culinaryagents.com	TRUE	/	FALSE	1999999999	__cfduid	d50de5a287f017304f5b5870ef1dc57de1502864174
+
